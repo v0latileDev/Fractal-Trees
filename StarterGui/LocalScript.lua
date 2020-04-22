@@ -1,4 +1,4 @@
-local Tree_Module = require(game.ReplicatedStorage.Tree2)
+local Tree_Module = require(game.ReplicatedStorage.Tree)
 local TreeFolder = game.Workspace.TreeFolder:GetChildren()
 
 for i = 1, #TreeFolder do
